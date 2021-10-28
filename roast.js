@@ -1,3 +1,8 @@
 function ZipcodeHelp() {
-  let victim = document.getElementByID();
+  let input = document.querySelector('#input');
+  let victim = input.value;
+  if (victim === '') {
+	  alert('Input is required.');
+	  return;
+	}
 }

@@ -17,7 +17,7 @@ body {
 }
 nav {
     background: #FFD500;
-    color: black;
+    color: #000000;
     padding: 1rem 0;
 }
 section.input {
@@ -48,7 +48,7 @@ input {
 }
 button{
     background:#FFD500;
-    color: black;
+    color: #000000;
     height: 100%;
     font-size: 16px;
     padding: 0 20px;

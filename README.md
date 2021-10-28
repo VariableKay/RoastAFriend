@@ -1,2 +1,2 @@
 # Kaytionary
-An online dictionary
+kay uses these words

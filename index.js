@@ -27,7 +27,6 @@ async function getData(word) {
 
 	const response = await fetch(`https://www.dictionaryapi.com/api/v3/references/learners/json/${word}?key=${apiKey}`);
 	const data = await response.json();
-	console.log(data);
 
 	if (!data.length) {
 		loading.style.display = 'none';

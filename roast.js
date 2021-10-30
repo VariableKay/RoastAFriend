@@ -62,13 +62,13 @@ function roast() {
 		alert("Hey " + victim + ", " + "you've got the color palette of an orange. You're boring.");
 		break;
 	case 18:
-		alert("Hey " + victim + ", " + "");
+		alert("Hey " + victim + ", " + "I'd take you out but alas, I've already taken out the trash today.");
 		break;
 	case 19:
-		alert("Hey " + victim + ", " + "");
+		alert("Hey " + victim + ", " + "you're like the equator. Everything about you is about the number zero.");
 		break;
 	case 20:
-		alert("Hey " + victim + ", " + "");
+		alert("Hey " + victim + ", " + "you're like the color red. You're sus.");
 		break;
 	case 21:
 		alert("Hey " + victim + ", " + "");

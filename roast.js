@@ -26,22 +26,22 @@ function roast() {
 		alert("Hey " + victim + ", " + "yo mama so dumb she gave birth to a mistake...");
 		break;
 	case 6:
-		alert("Hey " + victim + ", " + "");
+		alert("Hey " + victim + ", " + "you remind us of homework. Nobody likes you.");
 		break;
 	case 7:
-		alert("Hey " + victim + ", " + "");
+		alert("Hey " + victim + ", " + "if my life's a joke, yours is a comedy.");
 		break;
 	case 8:
-		alert("Hey " + victim + ", " + "");
+		alert("Hey " + victim + ", " + "William Shakespeare doesn't remember writing this comedic play.");
 		break;
 	case 9:
-		alert("Hey " + victim + ", " + "");
+		alert("Hey " + victim + ", " + "words can't describe how ugly you are.");
 		break;
 	case 10:
-		alert("Hey " + victim + ", " + "");
+		alert("Hey " + victim + ", " + "you could wear a casual outfit on Halloween and people would still be terrified of you.");
 		break;
 	case 11:
-		alert("Hey " + victim + ", " + "");
+		alert("Hey " + victim + ", " + "you're like a piano keyboard. You've only got two personalities.");
 		break;
 	case 12:
 		alert("Hey " + victim + ", " + "");

@@ -20,10 +20,10 @@ function roast() {
 		alert("Hey " + victim + ", " + "you're so hated that you were probably behind YouTube Rewind 2018!");
 		break;
 	case 4:
-		alert("Hey " + victim + ", " + "");
+		alert("Hey " + victim + ", " + "what's a synonym for trash? You'd know, huh?");
 		break;
 	case 5:
-		alert("Hey " + victim + ", " + "");
+		alert("Hey " + victim + ", " + "yo mama so dumb she gave birth to a mistake...");
 		break;
 	case 6:
 		alert("Hey " + victim + ", " + "");

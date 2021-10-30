@@ -44,22 +44,22 @@ function roast() {
 		alert("Hey " + victim + ", " + "you're like a piano keyboard. You've only got two personalities.");
 		break;
 	case 12:
-		alert("Hey " + victim + ", " + "");
+		alert("Hey " + victim + ", " + "you're the reason why shampoo bottles have instructions on them.");
 		break;
 	case 13:
-		alert("Hey " + victim + ", " + "");
+		alert("Hey " + victim + ", " + "you're like a textbook about quantum physics. Nobody's interested in you.");
 		break;
 	case 14:
-		alert("Hey " + victim + ", " + "");
+		alert("Hey " + victim + ", " + "your social skills are worse than Trump's tan.");
 		break;
 	case 15:
-		alert("Hey " + victim + ", " + "");
+		alert("Hey " + victim + ", " + "you're like a coin. You're two-faced.");
 		break;
 	case 16:
-		alert("Hey " + victim + ", " + "");
+		alert("Hey " + victim + ", " + "you don't even have to watch HowToBasic in order to be a basic b*tch.");
 		break;
 	case 17:
-		alert("Hey " + victim + ", " + "");
+		alert("Hey " + victim + ", " + "you've got the color palette of an orange. You're boring.");
 		break;
 	case 18:
 		alert("Hey " + victim + ", " + "");

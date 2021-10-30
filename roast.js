@@ -71,7 +71,7 @@ function roast() {
 		alert("Hey " + victim + ", " + "you're like the color red. You're sus.");
 		break;
 	case 21:
-		alert("Hey " + victim + ", " + "");
+		alert("Hey " + victim + ", " + "you're like the letter E - you're common as f*ck.");
 		break;
 	case 22:
 		alert("Hey " + victim + ", " + "");

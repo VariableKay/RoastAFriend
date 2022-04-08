@@ -56,7 +56,7 @@ function roast() {
 		alert("Hey " + victim + ", " + "you're like a coin. You're two-faced.");
 		break;
 	case 16:
-		alert("Hey " + victim + ", " + "you don't even have to watch HowToBasic in order to be a basic b*tch.");
+		alert("Hey " + victim + ", " + "you don't even have to watch HowToBasic in order to be a basic bitch.");
 		break;
 	case 17:
 		alert("Hey " + victim + ", " + "you've got the color palette of an orange. You're boring.");
@@ -71,22 +71,22 @@ function roast() {
 		alert("Hey " + victim + ", " + "you're like the color red. You're sus.");
 		break;
 	case 21:
-		alert("Hey " + victim + ", " + "you're like the letter E - you're common as f*ck.");
+		alert("Hey " + victim + ", " + "you're like the letter E - you're common as fuck.");
 		break;
 	case 22:
-		alert("Hey " + victim + ", " + "");
+		alert("Hey " + victim + ", " + "Putin called - he wants his kid back.");
 		break;
 	case 23:
-		alert("Hey " + victim + ", " + "");
+		alert("Hey " + victim + ", " + "I'd roast you, but my mom says I'm not allowed to burn trash.");
 		break;
 	case 24:
-		alert("Hey " + victim + ", " + "");
+		alert("Hey " + victim + ", " + "you look like someone who talks during sex.");
 		break;
 	case 25:
-		alert("Hey " + victim + ", " + "");
+		alert("Hey " + victim + ", " + "don't cry to me, cry to your parents. Oh wait, you don't even know them.");
 		break;
 	case 26:
-		alert("Hey " + victim + ", " + "");
+		alert("Hey " + victim + ", " + "where are your imaginary friends? I can't see them!");
 		break;
 	}
 }
